@@ -1,4 +1,4 @@
-# ComputedGeomery/计算几何
+# ComputedGeomery
 计算几何CG快速入门，本人还是这方面的新人因此只是简单记录自己的CG学习成果，持续更新，有喜欢algorithm和GIS的开发人员欢迎一起学习交流！<br><br>
 A.为什么我推荐学习这门课程？<br>
 --CG是giser除数学三板斧+离散之外最强的数学基础<br>
