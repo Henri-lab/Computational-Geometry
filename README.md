@@ -9,7 +9,7 @@ B. Main contents of this repository<br>
 --Courseware (by Deng Junhui)<br>
 --JavaScript implementation of classic algorithms<br>
 C. Preface Excerpt from "Computational Geometry: Algorithms and Applications"<br>
-In the late 1970s, computational geometry emerged from algorithm design and analysis. Today, it not only has its own academic journals and conferences but has also become a widely recognized discipline with a large and active research community. The success of this field as a research discipline is due in part to the inherent beauty of the problems and solutions it involves and in part to the significant role that geometric algorithms play in many application areas such as computer graphics, geographic information systems (GIS), and robotics.<br><br>
+--In the late 1970s, computational geometry emerged from algorithm design and analysis. Today, it not only has its own academic journals and conferences but has also become a widely recognized discipline with a large and active research community. The success of this field as a research discipline is due in part to the inherent beauty of the problems and solutions it involves and in part to the significant role that geometric algorithms play in many application areas such as computer graphics, geographic information systems (GIS), and robotics.<br><br>
 Courseware download<br>
 link：https://pan.baidu.com/s/1OKhh_xCF0eaVDCQH9QystA 
 pw：cgcg 
